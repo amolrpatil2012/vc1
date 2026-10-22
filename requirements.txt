@@ -1,6 +1,6 @@
 # Intentionally outdated pins with known CVEs - for Dependabot alerts / SCA demo
 Flask==0.12.2
-Werkzeug==0.14.1
+Werkzeug==3.1.9
 Jinja2==2.10
 PyYAML==5.3
 requests==2.33.0
